@@ -213,10 +213,11 @@ This project demonstrates proficiency in:
 
 ## 👨‍💻 Author
 
-**James Jok Dut Akuei**
-- Deep Learning Engineer & Researcher
-- Specialization: Medical Image Analysis & Transfer Learning
-- Contact: [Your Email]
+**Geu Aguto Garang Bior**
+- Software Engineering Student & Researcher
+- Specialization: Machine Learning in Health
+- Project: Medical Image Analysis & Transfer Learning
+- Contact: [g.bior@alustudent.com / geu.bior@alustudent.com]
 
 ---
 
