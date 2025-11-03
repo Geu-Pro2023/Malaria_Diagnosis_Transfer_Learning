@@ -217,7 +217,7 @@ This project demonstrates proficiency in:
 - Software Engineering Student & Researcher
 - Specialization: Machine Learning in Health
 - Project: Medical Image Analysis & Transfer Learning
-- Contact: [g.bior@alustudent.com / geu.bior@alustudent.com]
+- Contact: [g.bior@alustudent.com / geu.bior@gmail.com]
 
 ---
 
